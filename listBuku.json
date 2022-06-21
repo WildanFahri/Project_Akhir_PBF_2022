@@ -1,0 +1,370 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "nama": "Novel"
+    },
+    {
+      "id": 2,
+      "nama": "Sejarah"
+    },
+    {
+      "id": 3,
+      "nama": "Pendidikan Umum"
+    },
+    {
+      "nama": "Olahraga dan Hiburan",
+      "id": 4
+    },
+    {
+      "nama": "Kamus",
+      "id": 5
+    },
+    {
+      "nama": "Komik",
+      "id": 6
+    }
+  ],
+  "buku": [
+    {
+      "userId": 1,
+      "id": 1655641635982,
+      "judul": "Anna",
+      "pengarang": "Sabrina Febrianti",
+      "tahun": "2022",
+      "harga": 84000,
+      "is_ready": true,
+      "category": {
+        "id": "1",
+        "nama": "Novel"
+      }
+    },
+    {
+      "userId": 1,
+      "id": 1655641805414,
+      "judul": "Yuni",
+      "pengarang": "Ade Ubaidil",
+      "tahun": "2021",
+      "harga": 50000,
+      "is_ready": true,
+      "category": {
+        "id": "1",
+        "nama": "Novel"
+      }
+    },
+    {
+      "userId": 1,
+      "id": 1655641859934,
+      "judul": "Sang Penantang Badai",
+      "pengarang": "WINNY RACA",
+      "tahun": "2021",
+      "harga": 83000,
+      "is_ready": true,
+      "category": {
+        "id": "1",
+        "nama": "Novel"
+      }
+    },
+    {
+      "userId": 1,
+      "id": 1655642206414,
+      "judul": "Crush",
+      "pengarang": "JOSEPHINE ABIGAIL",
+      "tahun": "2020",
+      "harga": 85000,
+      "is_ready": true,
+      "category": {
+        "id": "1",
+        "nama": "Novel"
+      }
+    },
+    {
+      "userId": 1,
+      "id": 1655642267886,
+      "judul": "Arthan",
+      "pengarang": "LOLIMILKYY",
+      "tahun": "2021",
+      "harga": 80000,
+      "is_ready": true,
+      "category": {
+        "id": "1",
+        "nama": "Novel"
+      }
+    },
+    {
+      "userId": 1,
+      "id": 1655643066886,
+      "judul": "Kartini",
+      "pengarang": "Joost Cote",
+      "tahun": "2022",
+      "harga": 288000,
+      "is_ready": true,
+      "category": {
+        "id": "2",
+        "nama": "Sejarah"
+      }
+    },
+    {
+      "userId": 1,
+      "id": 1655643100518,
+      "judul": "W.R.Supratman",
+      "pengarang": "Frida Firdiani, dkk.",
+      "tahun": "2022",
+      "harga": 33000,
+      "is_ready": true,
+      "category": {
+        "id": "2",
+        "nama": "Sejarah"
+      }
+    },
+    {
+      "userId": 1,
+      "id": 1655643130334,
+      "judul": "Sutan Syahrir",
+      "pengarang": "Endang Kristin, dkk.",
+      "tahun": "2022",
+      "harga": 33000,
+      "is_ready": true,
+      "category": {
+        "id": "2",
+        "nama": "Sejarah"
+      }
+    },
+    {
+      "userId": 1,
+      "id": 1655643312318,
+      "judul": "Haji Agus Salim",
+      "pengarang": "Savitri St, dkk.",
+      "tahun": "2022",
+      "harga": 33000,
+      "is_ready": true,
+      "category": {
+        "id": "2",
+        "nama": "Sejarah"
+      }
+    },
+    {
+      "userId": 1,
+      "id": 1655643827949,
+      "judul": "Mohammad Hatta",
+      "pengarang": "Adi Imam T, dkk",
+      "tahun": "2022",
+      "harga": 33000,
+      "is_ready": true,
+      "category": {
+        "id": "2",
+        "nama": "Sejarah"
+      }
+    },
+    {
+      "userId": 1,
+      "id": 1655644160190,
+      "judul": "China",
+      "pengarang": "Jusra Chandra",
+      "tahun": "2020",
+      "harga": 54000,
+      "is_ready": true,
+      "category": {
+        "id": "2",
+        "nama": "Sejarah"
+      }
+    },
+    {
+      "userId": 1,
+      "id": 1655646355381,
+      "judul": "Guru Milenial",
+      "pengarang": "Prof. Richardus Eko Indrajit",
+      "tahun": "2022",
+      "harga": 41000,
+      "is_ready": true,
+      "category": {
+        "id": 3,
+        "nama": "Pendidikan Umum"
+      }
+    },
+    {
+      "userId": 1,
+      "id": 1655646390429,
+      "judul": "Strategi Pembelajaran Jarak Jauh",
+      "pengarang": "Lusia Wijiatun ",
+      "tahun": "2022",
+      "harga": 39000,
+      "is_ready": true,
+      "category": {
+        "id": 3,
+        "nama": "Pendidikan Umum"
+      }
+    },
+    {
+      "userId": 1,
+      "id": 1655646461237,
+      "judul": "Sekak Math",
+      "pengarang": "Muh. Fajaruddin Atsnan",
+      "tahun": "2022",
+      "harga": 39000,
+      "is_ready": true,
+      "category": {
+        "id": 3,
+        "nama": "Pendidikan Umum"
+      }
+    },
+    {
+      "userId": 1,
+      "id": 1655646659421,
+      "judul": "Intisari Matematika",
+      "pengarang": "Amir Tjolleng",
+      "tahun": "2022",
+      "harga": 100000,
+      "is_ready": true,
+      "category": {
+        "id": 3,
+        "nama": "Pendidikan Umum"
+      }
+    },
+    {
+      "userId": 1,
+      "id": 1655646687550,
+      "judul": "Otomatisasi Tata Kelola Keuangan",
+      "pengarang": "Anis Muftias, S.E.",
+      "tahun": "2022",
+      "harga": 59000,
+      "is_ready": true,
+      "category": {
+        "id": 3,
+        "nama": "Pendidikan Umum"
+      }
+    },
+    {
+      "userId": 1,
+      "id": 1655647092285,
+      "judul": "Buku Jago Bola Basket Untuk Pemula",
+      "pengarang": "Lulu Lukyani",
+      "tahun": "2020",
+      "harga": 33000,
+      "is_ready": true,
+      "category": {
+        "id": "4",
+        "nama": "Olahraga dan Hiburan"
+      }
+    },
+    {
+      "userId": 1,
+      "id": 1655647169485,
+      "judul": "Teknik Dasar Bermain Olahraga Pentanque",
+      "pengarang": "RAMDAN PELANA DKK",
+      "tahun": "2020",
+      "harga": 42000,
+      "is_ready": true,
+      "category": {
+        "id": "4",
+        "nama": "Olahraga dan Hiburan"
+      }
+    },
+    {
+      "userId": 1,
+      "id": 1655647231637,
+      "judul": "Sepak Takraw Double Event",
+      "pengarang": "ABDUL GANI DKK",
+      "tahun": "2020",
+      "harga": 51000,
+      "is_ready": true,
+      "category": {
+        "id": "4",
+        "nama": "Olahraga dan Hiburan"
+      }
+    },
+    {
+      "userId": 1,
+      "id": 1655679886003,
+      "judul": "Mudahnya Bermain Keyboard",
+      "pengarang": "HENDRI CAHYA WIBOWO",
+      "tahun": "2022",
+      "harga": 38000,
+      "is_ready": true,
+      "category": {
+        "id": "4",
+        "nama": "Olahraga dan Hiburan"
+      }
+    },
+    {
+      "userId": 1,
+      "id": 1655679930594,
+      "judul": "Dari Kudus Menuju Prestasi Dunia",
+      "pengarang": "Tim Historia",
+      "tahun": "2019",
+      "harga": 64000,
+      "is_ready": true,
+      "category": {
+        "id": "4",
+        "nama": "Olahraga dan Hiburan"
+      }
+    },
+    {
+      "userId": 1,
+      "id": 1655680717610,
+      "judul": "Kamus Lengkap Bahasa Inggris",
+      "pengarang": "Adrian Harold",
+      "tahun": "2022",
+      "harga": 102000,
+      "is_ready": true,
+      "category": {
+        "id": "5",
+        "nama": "Kamus"
+      }
+    },
+    {
+      "userId": 1,
+      "id": 1655680753530,
+      "judul": "Bahasa Indonesia bagi Penutur Asing",
+      "pengarang": "Liliana Muliastuti",
+      "tahun": "2022",
+      "harga": 50000,
+      "is_ready": true,
+      "category": {
+        "id": "5",
+        "nama": "Kamus"
+      }
+    },
+    {
+      "userId": 1,
+      "id": 1655680796443,
+      "judul": "Kamus Arab Indonesia",
+      "pengarang": "PROF. DR. H. MAHMUD YUNUS",
+      "tahun": "2022",
+      "harga": 68000,
+      "is_ready": true,
+      "category": {
+        "id": "5",
+        "nama": "Kamus"
+      }
+    },
+    {
+      "userId": 1,
+      "id": 1655680826466,
+      "judul": "Panduan Telengkap Belajar Bahasa Korea",
+      "pengarang": "M. Hasan Hwang",
+      "tahun": "2020",
+      "harga": 106000,
+      "is_ready": true,
+      "category": {
+        "id": "5",
+        "nama": "Kamus"
+      }
+    },
+    {
+      "userId": 1,
+      "id": 1655680870298,
+      "judul": "Panduan Lengkap Kuasai Bahasa Jepang Tanpa Kursus",
+      "pengarang": "Anis Farida",
+      "tahun": "2020",
+      "harga": 54000,
+      "is_ready": true,
+      "category": {
+        "id": "5",
+        "nama": "Kamus"
+      }
+    }
+  ],
+  "keranjangs": [],
+  "pesanans": []
+}

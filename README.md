@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `json-server --watch listBuku.json –-port 3001`
+
+Runs API
+
 ### `npm start`
 
 Runs the app in the development mode.\
